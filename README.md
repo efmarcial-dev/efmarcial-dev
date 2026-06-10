@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Eduardo 👋
 
-<!--
-**efmarcial-dev/efmarcial-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of Nova IT Solutions and Full Stack Software Engineer.
 
-Here are some ideas to get you started:
+I build web and mobile applications with a focus on React, React Native, TypeScript, Django, Python, PostgreSQL, Azure, and AI-powered products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently interested in:
+- AI-native applications
+- React Native mobile development
+- SaaS platforms
+- Healthcare technology
+- Startup product development
+
+## Tech Stack
+
+Frontend:
+- React
+- React Native
+- TypeScript
+- Next.js
+
+Backend:
+- Django
+- Python
+- Node.js
+- PostgreSQL
+
+Cloud & DevOps:
+- Azure
+- Docker
+- GitHub Actions
+
+## Current Projects
+
+🚀 Building AI-powered healthcare software
+
+🚀 Building consumer and SaaS products
+
+## Connect
+
+LinkedIn: https://linkedin.com/in/eduardo-marcial
